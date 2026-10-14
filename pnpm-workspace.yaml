@@ -4,6 +4,7 @@ allowBuilds:
   esbuild: true
   msw: false
   protobufjs: false
+  workerd: true
 ignoredBuiltDependencies:
   - core-js
   - protobufjs
